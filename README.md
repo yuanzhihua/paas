@@ -1,7 +1,4 @@
-paas
+中软国际 Radar Cloud
 ====
 
-coded by java，PAAS for big data
-
-features
-1、
+中软国际 Radar Cloud是 一个开源的PAAS平台，基于Cloudfoundry开发，欢迎开发者参与！
